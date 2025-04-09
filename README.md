@@ -2,15 +2,17 @@
 
 ##### 1. 创建虚拟环境
 
-```bash
-python -m venv venv
-```
+| 环境    | 命令                  |
+| ------- | --------------------- |
+| Linux   | python3 -m venv .venv |
+| Windows | python -m venv venv   |
 
 ##### 2. 激活虚拟环境
 
-```bash
-.\venv\Scripts\activate
-```
+| 环境    | 命令                      |
+| ------- | ------------------------- |
+| Linux   | source .venv/bin/activate |
+| Windows | .\venv\Scripts\activate   |
 
 ##### 3. 下载全部依赖
 
