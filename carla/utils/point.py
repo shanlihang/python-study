@@ -1,7 +1,7 @@
 import carla
 
 # 高亮标记所有可生成点 - 汽车
-def draw_spawn_points(world,rgb=(255, 0, 0),debug_type="point"):
+def draw_spawn_points(world,rgb=(255, 0, 0),debug_type="string"):
     """ 在地图上标记所有可生成点，并高亮 204 号点位 """
     spawn_points = world.get_map().get_spawn_points()
     debug = world.debug
