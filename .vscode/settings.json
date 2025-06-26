@@ -4,6 +4,8 @@
     "certifi",
     "idna",
     "KHTML",
+    "mdurl",
+    "pygments",
     "soupsieve",
     "urllib",
     "venv"
