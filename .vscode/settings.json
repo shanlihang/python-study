@@ -6,6 +6,7 @@
     "KHTML",
     "mdurl",
     "pygments",
+    "minioadmin",
     "soupsieve",
     "urllib",
     "venv"
